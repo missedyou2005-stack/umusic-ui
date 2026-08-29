@@ -1,0 +1,6 @@
+{
+  "name": "Umusic",
+  "description": "Tactile, editorial, and cinematic streaming audio player with synchronized lyrics, rich library, and artist discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
